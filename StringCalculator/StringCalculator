@@ -1,0 +1,2 @@
+Program that practised being able to convert strings to ints and visa versa in addition to doubles as well; this program helped users get an understanding of how this conversion is done by not utilizing a library or direct function in C++ 
+that may otherwise be available in something like Python
