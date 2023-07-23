@@ -1,0 +1,2 @@
+Program that delath with string traversal to extract certain information from a given format and would throw errors with the according error message in the event that the string input wasn't according to what was expected. This program
+in a sense would mimic taking in times from a race meaning that a competitor's name was expected as well as a country and their race time as well
