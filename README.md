@@ -1,2 +1,2 @@
 # ProgramDesignAndConcepts
-Contains the programming assignments (technically homework assignments in this course)
+Contains the programming assignments (homework assignments in this course)
