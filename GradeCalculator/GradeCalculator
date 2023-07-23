@@ -1,0 +1,2 @@
+This contains the homework programming assignment over a grade calculator that uses various data types across C++ to take an input of data (in this case the current grades in a given course in addition to the weight
+that each grade contributes to the final grade) and can calcuate what is needed on the remaining assignments to get a specified grade by the users. 
